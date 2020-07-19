@@ -12,7 +12,8 @@ I currently passionate about Voice Technology, Web Apps, Serverless Architecture
 </p>
 <p align="center">In my spare time, the development community is a big part of his life. I spends much time learning emerging technologies and actively figuring out venues that would help him integrate this cutting-edge technology into consumer and enterprise products.
 
-Check this out: www.voycenest.tech
+>www.voycenest.tech</br>
+>www.somilgupta.me
 
 PS: Learning and Implementing cool things with Alexa every day.
 
