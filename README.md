@@ -10,16 +10,12 @@
 <p align="center">I'm a Backend + VUI Developer | Alexa Student Influencer | Computer Science Undergrad at BITS Pilani</br>
 I currently passionate about Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
 </p>
-<p align="center">In my spare time, the development community is a big part of his life. I spends much time learning emerging technologies and actively figuring out venues that would help him integrate this cutting-edge technology into consumer and enterprise products.
-
->www.voycenest.tech</br>
->www.somilgupta.me
-
-PS: Learning and Implementing cool things with Alexa every day.
-
+<p align="center">In my spare time, the development community is a big part of his life. I spends much time learning emerging technologies and actively figuring out venues that would help him integrate this cutting-edge technology into consumer and enterprise products.</br></br>www.voycenest.tech   |   www.somilgupta.me
+  
 ```javascript
 "There's no future that doesn't have ambient computing or voice activation."
 ~Mark Cuban
 ```
-![image](https://github.com/somilg050/somilg050/blob/master/dino.gif)
+![image](https://github.com/somilg050/somilg050/blob/master/dino.gif)</br>
+PS: Learning and Implementing cool things with Alexa every day.
 </p>
