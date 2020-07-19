@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello there! My name is Somil Gupta. 👋🤓</h2>
 <p align="center">I'm a Backend + VUI Developer | Alexa Student Influencer | Computer Science Undergrad at BITS Pilani</br>
-I currently passionate about Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
+Passionate about Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
 </p>
 <p align="center">In my spare time, the development community is a big part of his life. I spends much time learning emerging technologies and actively figuring out venues that would help him integrate this cutting-edge technology into consumer and enterprise products.</br></br>www.voycenest.tech   |   www.somilgupta.me
   
