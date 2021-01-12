@@ -10,7 +10,7 @@
 <p align="center">I'm a Backend + VUI Developer | Alexa Student Influencer | Computer Science Undergrad at BITS Pilani</br>
 Passionate about Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
 </p>
-<p align="center">In my spare time, the development community is a big part of his life. I spends much time learning emerging technologies and actively figuring out venues that would help him integrate this cutting-edge technology into consumer and enterprise products.</br></br>www.voycenest.tech
+<p align="center">In my spare time, the development community is a big part of my life. I spends much time learning emerging technologies and actively figuring out venues that would help me integrate this cutting-edge technology into consumer and enterprise products.</br></br>www.voycenest.tech
   
 ```javascript
 "There's no future that doesn't have ambient computing or voice activation."
