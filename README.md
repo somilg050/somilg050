@@ -7,7 +7,7 @@
 <p align="center">I'm a full-time Backend + veteran VUI Developer </br>
 Passionate about EVs, Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
 </p>
-<p align="center">In my spare time, the development community is a big part of my life. I spends much time learning emerging technologies and actively figuring out venues that would help me integrate this cutting-edge technology into consumer and enterprise products.</br>
+<p align="center">In my spare time, the development community is a big part of my life. I spend much time learning emerging technologies and actively figuring out venues that would help me integrate this cutting-edge technology into consumer and enterprise products.</br>
   
   
 ![image](https://github.com/somilg050/somilg050/blob/master/dino.gif)</br>
