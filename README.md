@@ -21,7 +21,8 @@ Passionate about Climate Tech, Voice Technology, Web Apps, Serverless Architectu
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github.com/somilg050/somilg050/blob/master/dino.gif" alt="Dino GIF"/>
 </p>
+-->
