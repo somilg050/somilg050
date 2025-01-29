@@ -2,7 +2,7 @@
 <p align='center'>
 
 <h2 align="center">Hello there! My name is Somil Gupta. 👋🤓</h2>
-<h3 align="center">Building ⚡Telematica (YC W22) | Ex-Amazon | CS'21 BITS Pilani</h3>
+<h3 align="center">Building Broccoli.com | Previously ⚡Telematica, Amazon | CS'21 BITS Pilani</h3>
 
 <p align="center">I'm a full-stack developer with love for VUI (Voice User Interface) development.</br>
 Passionate about Climate Tech, Voice Technology, Web Apps, Serverless Architecture and Vanilla JS :)  
